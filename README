@@ -1,0 +1,5 @@
+### GET REDIS KEY EXIRE
+
+导出 redis key 的类型及过期时间
+
+未在大数据库中进行测试，谨慎使用
